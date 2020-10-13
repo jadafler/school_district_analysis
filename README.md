@@ -7,7 +7,7 @@ This analysis has been conducted to support the Chief Data Scientist for the Sch
 
 ## Results
 
-&loz <B> District Summary </B> &loz
+&#loz <B> District Summary </B> &#loz
 
 <img src="Resources/district_summary.png" alt="District Summary">
 
