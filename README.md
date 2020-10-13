@@ -54,30 +54,7 @@ As reflected in the above School Summary snapshot - Thomas High School produced 
 <ul>Scores by School Size</ul>
 <ul>Scores by School Type</ul>
 
-<li>The winning candidate of the popular vote, candidate's winning vote count, and winning percentage</li>
-
 ## Summary
 
-The Board of Election is looking for a more automated audit than what is offered through Excel; which is how the audit has been conducted previously. The goal is to more efficiently provide the election audit throughout not only the Congressional districts but also the Senatorial districts and other local elections. 
+Four major changes
 
-## Election-Audit Results
-
-<li>369, 711 total votes were casted for the US Congressional election</li>
-<li>The breakdown of the counties participating in the US Congressional election are:</li>
-<ul>1. Denver - 82.8% with 306,055 votes</ul>
-<ul>2. Jefferson - 10.5% with 38,855 votes</ul>
-<ul>3. Arapahoe - 6.7% with 24, 801 votes</ul>
-<li>The county with the largest voting turnout is Denver</li>
-<li>The breakdown of the candidate results in the US Congressional election are:</li>
-<ul>1. Diana DeGette - 73.8% with 272,892 votes</ul>
-<ul>2. Charles Casper Stockham - 23% with 85,213 votes</ul>
-<ul>3. Raymon Anthony Doane - 3.1% with 11,606 votes</ul>
-<li>The winning candidate, determined by popular vote, is:</li>
-<ul>Diana DeGette - 73.8% with 272,892 votes</ul>
-
-<img src="Resources/election_audit_results.png" alt="Election Audit Results">
-
-## Election-Audit Summary
-
-The possibilities and efficiencies are a driving factor to utilizing Python over Excel for a more automated, easily edited, and organized format to provide election result based audit. The written code creates dictionaries and lists to house the the independent variables which are replaceable by re-defining the variables to suit the audit needed. The  variable assignments utilized in this program can be used to for different cities, counties, and states based on the provided election results as well as the candidate variable be representing candidates or amendments up for election by providing alternative election results and re-defining the variables. When looking at the code for collecting an item or name and then counting the votes for that particular input - your possibilities are endless of what information can be collected and tallied electronically.
- 
