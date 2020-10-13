@@ -51,7 +51,7 @@ As reflected in the above School Summary snapshot - Thomas High School produced 
 </tr>
 </table>
 
-###Additional effects of the revised Thomas High School's student population
+### Additional effects of the revised Thomas High School's student population
 
 <B><li>Math and Reading Scores by Grade</li></B>
 [Scores by Grade DF - Code])https://github.com/jadafler/school_district_analysis/tree/main/Code/code_scores_by_grade.png)
