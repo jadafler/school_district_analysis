@@ -27,22 +27,25 @@ As reflected in the above School Summary snapshot - Thomas High School produced 
 
 <B><li>Additional effects of the revised Thomas High School's student population</li></B>
 
-<ul>1.Math and Reading Scores by Grade</ul>
-<i> Math Scores by Grade</i>
+<ul>1. Math and Reading Scores by Grade</ul>
+<i><c> Math Scores by Grade </c></I>
 <img src="Resources/math_scores_by_grade.png" alt="Math and Reading Scores by Grade">
 <i> Reading Scores by Grade</i>
 <img src="Resources/reading_scores_by_grade.png" alt="Math and Reading Scores by Grade">
 The 9th graders' math and reading scores were replaced with NaN which means that there is no result that can be produced or measured therefore returning a NaN value. 
-
+<br>
+<br>
 <ul>2. Scores by School Spending</ul>
 <img src="Resources/scores_by_spending.png" alt="Math and Reading Scores by Spending">
 The NaN value is not being calculated in the below values so are not reflected in the below snapshot of the test scores. The affect is only seen by the increase in test scores derived from the lower performing scores being removed (in reference to THS, in the spending range of )$630-$644,THS spends $638 per student). 
-
-<ul>--> Scores by School Size</ul>
+<br>
+<br>
+<ul>3. Scores by School Size</ul>
 <img src="Resources/scores_by_size.png" alt="Math and Reading Scores by Size">
 The NaN value is not being calculated in the below values so are not reflected in the below snapshot of the test scores. The affect is only seen by the increase in test scores derived from the lower performing scores being removed (in reference to THS, in the school size of Medium (1000-2000), THS has a total student count of 1635). 
-
-<ul>--> Scores by School Type</ul>
+<br>
+<br>
+<ul>4. Scores by School Type</ul>
 <img src="Resources/scores_by_type.png" alt="Math and Reading Scores by Type">
 The NaN value is not being calculated in the below values so are not reflected in the below snapshot of the test scores. The affect is only seen by the increase test scores derived from the lower performing scores being removed (in reference to THS, in the school type Charter). 
 
