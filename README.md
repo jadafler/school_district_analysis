@@ -76,7 +76,7 @@ The 9th graders' math and reading scores were replaced with NaN which means that
 
 <img src="Resources/scores_by_spending.png" alt="Math and Reading Scores by Spending">
 
-The NaN value is not being calculated in the below values so are not reflected in the below snapshot of the test scores. The affect is only seen by the increase in test scores derived from the lower performing scores being removed (in reference to THS, in the spending range of )$630-$644,THS spends $638 per student). 
+The NaN value is not being calculated in the below values so are not reflected in the below snapshot of the test scores. The affect is only seen by the increase in test scores derived from the lower performing scores being removed (in reference to THS, in the spending range of ($630-$644,THS spends $638 per student). 
 <br>
 <br>
 
