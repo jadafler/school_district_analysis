@@ -72,7 +72,7 @@ The NaN value is not being calculated in the below values so are not reflected i
 <br>
 <br>
 <li>Scores by School Size</li>
-[Scores by Size DF - Code](https://github.com/jadafler/school_district_analysis/tree/main/Code/code_scores_by_size.png)
+[Scores by School Size DF - Code](https://github.com/jadafler/school_district_analysis/tree/main/Code/code_scores_by_school_size.png)
 <img src="Resources/scores_by_size.png" alt="Math and Reading Scores by Size">
 The NaN value is not being calculated in the below values so are not reflected in the below snapshot of the test scores. The affect is only seen by the increase in test scores derived from the lower performing scores being removed (in reference to THS, in the school size of Medium (1000-2000), THS has a total student count of 1635). 
 <br>
