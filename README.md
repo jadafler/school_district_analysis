@@ -54,34 +54,46 @@ As reflected in the above School Summary snapshot - Thomas High School produced 
 ### Additional effects of the revised Thomas High School's student population
 
 <B><li>Math and Reading Scores by Grade</li></B>
-[Scores by Grade DF - Code](https://github.com/jadafler/school_district_analysis/tree/main/Code/code_scores_by_grade.png)
+<a href="https://github.com/jadafler/school_district_analysis/tree/main/Code/code_scores_by_grade.png">Scores by Grade DF - Code</a>
+<br>
+
 <B>Math Scores by Grade</B>
 <br>
+
 <img src="Resources/math_scores_by_grade.png" alt="Math and Reading Scores by Grade">
 
 <B>Reading Scores by Grade</B>
 <br>
+
 <img src="Resources/reading_scores_by_grade.png" alt="Math and Reading Scores by Grade">
 
 The 9th graders' math and reading scores were replaced with NaN which means that there is no result that can be produced or measured therefore returning a NaN value. 
 <br>
 <br>
+
 <li>Scores by School Spending</li>
-<a href="https://github.com/jadafler/school_district_analysis/tree/main/Code/code_scores_by_school_spending.png">Scores Test</a>
-[Scores by School Spending DF - Code](https://github.com/jadafler/school_district_analysis/tree/main/Code/code_scores_by_school_spending.png)
+<a href="https://github.com/jadafler/school_district_analysis/tree/main/Code/code_scores_by_school_spending.png">Scores by School Spending DF - Code</a>
+
 <img src="Resources/scores_by_spending.png" alt="Math and Reading Scores by Spending">
+
 The NaN value is not being calculated in the below values so are not reflected in the below snapshot of the test scores. The affect is only seen by the increase in test scores derived from the lower performing scores being removed (in reference to THS, in the spending range of )$630-$644,THS spends $638 per student). 
 <br>
 <br>
+
 <li>Scores by School Size</li>
-[Scores by School Size DF - Code](https://github.com/jadafler/school_district_analysis/tree/main/Code/code_scores_by_school_size.png)
+<a href="https://github.com/jadafler/school_district_analysis/tree/main/Code/code_scores_by_school_size.png">Scores by School Size DF - Code</a>
+
 <img src="Resources/scores_by_size.png" alt="Math and Reading Scores by Size">
+
 The NaN value is not being calculated in the below values so are not reflected in the below snapshot of the test scores. The affect is only seen by the increase in test scores derived from the lower performing scores being removed (in reference to THS, in the school size of Medium (1000-2000), THS has a total student count of 1635). 
 <br>
 <br>
+
 <li>Scores by School Type</li>
-[Scores by School Type DF - Code](https://github.com/jadafler/school_district_analysis/tree/main/Code/code_scores_by_school_type.png)
+<a href="https://github.com/jadafler/school_district_analysis/tree/main/Code/code_scores_by_school_type.png">Scores by School Type DF - Code</a>
+
 <img src="Resources/scores_by_type.png" alt="Math and Reading Scores by Type">
+
 The NaN value is not being calculated in the below values so are not reflected in the below snapshot of the test scores. The affect is only seen by the increase test scores derived from the lower performing scores being removed (in reference to THS, in the school type Charter). 
 
 ## Summary
