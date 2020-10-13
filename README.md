@@ -25,6 +25,29 @@ The School Summary allows an overview of each school within the District. Each s
 
 As reflected in the above School Summary snapshot - Thomas High School produced some of the lowest percentages of passing scores in the standardized test results. When removing the test scores of THS's 9th graders; therefore, revising the THS data to reflect 10th - 12th graders only allowed for THS to move from the lower performing schools to the 2nd highest performing school. 
 
+<table>
+<tr>
+<th><B>Score Type</B></th>
+<th><B>THS 9th - 12th Graders</B></th>
+<th><B>THS 10th - 12th Graders</B></th>
+</tr>
+<tr>
+<th><B>Math</B></th>
+<th>66.9%</th>
+<th>93.2%</th>
+</tr>
+<tr>
+<th><B>Reading</B></th>
+<th>69.6%</th>
+<th>97.0%</th>
+</tr>
+<tr>
+<th><B>Math & Reading</B></th>
+<th>65.1%</th>
+<th>90.6%</th>
+</tr>
+</table>
+
 <B><li>Additional effects of the revised Thomas High School's student population</li></B>
 
 <ul>1. Math and Reading Scores by Grade</ul>
@@ -50,29 +73,13 @@ The NaN value is not being calculated in the below values so are not reflected i
 The NaN value is not being calculated in the below values so are not reflected in the below snapshot of the test scores. The affect is only seen by the increase test scores derived from the lower performing scores being removed (in reference to THS, in the school type Charter). 
 
 ## Summary
+The analysis provided a variety of descriptors that could lead to constructive planning in increasing the overall performance of the students within the School District.
+<li>The top 5 performing schools are all Charter School Types; whereas, the lowest 5 performing schools are all District School Types. This is also strongly seen in the Scores by School Type as the overall passing percentage (students who passed both math and reading) is 90% at the Charter Schools and 54% at the District Schools </li>
+<li>There is minimal variances across the grade levels in both math and reading as well as minimal variance across the school population</li>
+<li>The schools in the lowest Spending Range produced the highest performance scores.</li>
+<li>The schools with the Small and Medium School Size (student population) had little variance between them but out performed the Large School Size</li>
 
-<table>
-<tr>
-<th><B>Score Type</B></th>
-<th><B>THS 9th - 12th Graders</B></th>
-<th><B>THS 10th - 12th Graders</B></th>
-</tr>
-<tr>
-<th><B>Math</B></th>
-<th>66.9%</th>
-<th>93.2%</th>
-</tr>
-<tr>
-<th><B>Reading</B></th>
-<th>69.6%</th>
-<th>97.0%</th>
-</tr>
-<tr>
-<th><B>Math & Reading</B></th>
-<th>65.1%</th>
-<th>90.6%</th>
-</tr>
-</table>
+
 
 
 
