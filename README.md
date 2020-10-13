@@ -55,6 +55,7 @@ As reflected in the above School Summary snapshot - Thomas High School produced 
 
 <ul>1. Math and Reading Scores by Grade</ul>
 [Scores by Grade DF - Code](https://github.com/jadafler/school_district_analysis/tree/main/Code/code_scores_by_grade.png)
+[THS - replacing 9th Graders - Code](https://github.com/jadafler/school_district_analysis/tree/main/Code/code_replace_school_summary.png)
 <i><B>Math Scores by Grade</B></I>
 <img src="Resources/math_scores_by_grade.png" alt="Math and Reading Scores by Grade">
 <i><B>Reading Scores by Grade</B></I>
