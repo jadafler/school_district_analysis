@@ -8,7 +8,7 @@ This analysis has been conducted to support the Chief Data Scientist for the Sch
 ## Results
 
 <B><li> District Summary </li></B>
-![alt text](https://github.com/jadafler/school_district_analysis/Code/code_district_summary.png "District Summary DF - Code")
+![District Summary DF - Code](https://github.com/jadafler/school_district_analysis/tree/main/Code/code_district_summary.png)
 
 <img src="Resources/district_summary.png" alt="District Summary">
 
