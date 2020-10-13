@@ -15,7 +15,7 @@ The District Summary provides a snapshot (below) to reflect the amount of school
 
 <li>School Summary</li>
 
-<img src="Resources/cchool_summary.png" alt="School Summary">
+<img src="Resources/school_summary.png" alt="School Summary">
 
 The School Summary allows an overview of each school within the District. Each school is provided as an index and is accompanied by a variety of attributes to include the type, total student count, the school's budget, the school's per student budget, the average score of the standardized tests, and the school's percentage of those test that were of a passing grade (a 70% or higher). The attributes allow you to compare how one school attribute can affect the test scores of the students. 
 
@@ -26,6 +26,25 @@ The School Summary allows an overview of each school within the District. Each s
 As reflected in the above School Summary snapshot - Thomas High School produced some of the lowest percentages of passing scores in the standardized test results. When removing the test scores of THS's 9th graders; therefore, revising the THS data to reflect 10th - 12th graders only allowed for THS to move from the lower performing schools to the 2nd highest performing school. 
 
 <li>Additional effects of the revised Thomas High School's student population</li>
+
+<ul>Math and Reading Scores by Grade</ul>
+<img src="Resources/math_and_reading_scores_by_grade.png" alt="Math and Reading Scores by Grade">
+The 9th graders' math and reading scores were replaced with NaN which means that there is no result that can be produced or measured therefore returning a NaN value. 
+
+<ul>Scores by School Spending</ul>
+<img src="Resources/scores_by_spending.png" alt="Math and Reading Scores by Spending">
+The NaN value is not being calculated in the below values so are not reflected in the below snapshot of the test scores. The affect is only seen by the increase in test scores derived from the lower performing scores being removed (in reference to THS, in the spending range of )$630-$644,THS spends $638 per student). 
+
+<ul>Scores by School Size</ul>
+<img src="Resources/scores_by_size.png" alt="Math and Reading Scores by Size">
+The NaN value is not being calculated in the below values so are not reflected in the below snapshot of the test scores. The affect is only seen by the increase in test scores derived from the lower performing scores being removed (in reference to THS, in the school size of Medium (1000-2000), THS has a total student count of 1635). 
+
+<ul>Scores by School Type</ul>
+<img src="Resources/scores_by_type.png" alt="Math and Reading Scores by Type">
+The NaN value is not being calculated in the below values so are not reflected in the below snapshot of the test scores. The affect is only seen by the increase test scores derived from the lower performing scores being removed (in reference to THS, in the school type Charter). 
+
+## Summary
+
 <table>
 <tr>
 <th><B>Score Type</B></th>
@@ -49,12 +68,5 @@ As reflected in the above School Summary snapshot - Thomas High School produced 
 </tr>
 </table>
 
-<ul>Math and Reading Scores by Grade</ul>
-<ul>Scores by School Spending</ul>
-<ul>Scores by School Size</ul>
-<ul>Scores by School Type</ul>
 
-## Summary
-
-Four major changes
 
