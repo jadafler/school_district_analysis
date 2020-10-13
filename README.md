@@ -51,14 +51,17 @@ As reflected in the above School Summary snapshot - Thomas High School produced 
 </tr>
 </table>
 
-<B><li>Additional effects of the revised Thomas High School's student population</li></B>
+###Additional effects of the revised Thomas High School's student population
 
-<li>Math and Reading Scores by Grade</li>
-[Scores by Grade DF - Code](https://github.com/jadafler/school_district_analysis/tree/main/Code/code_scores_by_grade.png)
+<B><li>Math and Reading Scores by Grade</li></B>
+[Scores by Grade DF - Code])https://github.com/jadafler/school_district_analysis/tree/main/Code/code_scores_by_grade.png)
+
 <i><B>Math Scores by Grade</B></I>
 <img src="Resources/math_scores_by_grade.png" alt="Math and Reading Scores by Grade">
+
 <i><B>Reading Scores by Grade</B></I>
 <img src="Resources/reading_scores_by_grade.png" alt="Math and Reading Scores by Grade">
+
 The 9th graders' math and reading scores were replaced with NaN which means that there is no result that can be produced or measured therefore returning a NaN value. 
 <br>
 <br>
